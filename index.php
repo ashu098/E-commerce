@@ -75,6 +75,7 @@
 						0 0 25px #03e9f4,
 						0 0 50px #03e9f4,
 						0 0 200px #03e9f4;
+			text-decoration: none;
 		}
 
 		a span {
